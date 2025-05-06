@@ -6,10 +6,9 @@
 
 # KnowB4-Highlights
 
-➜ Managed the KnowBe4 cybersecurity awareness training program, overseeing third-party training schedules and
-ensuring timely completion. Coordinated with the IT manager to prioritize and schedule training sessions based on
-organizational needs and requests.
+➜ Managed the KnowBe4 cybersecurity awareness training program, coordinating training schedules and ensuring timely completion to meet organizational needs.
 
-➜ Procured the contractor with KnowBe4 to help complete the task given by the IT manager to ensure the company was trained to pass compliance audits.
+➜ Procured and managed third-party training services through KnowBe4 to help the organization meet compliance audit requirements.  
 
-➜ Ran phishing campaigns to measure which users were high risk to ensure we provided them with additional training to prevent future accidental cyber incidents.
+➜ Ran simulated phishing campaigns to identify high-risk users and assigned targeted training to reduce the likelihood of future cyber incidents.
+
