@@ -4,11 +4,12 @@
   </a>
 </p>
 
-# KnowB4-Highlights
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Samuel-Cavada/KnowB4-Highlights/main/images/Knowb4.png" alt="KnowBe4 Highlights" width="600">
+</p>
 
-➜ Managed the KnowBe4 cybersecurity awareness training program, coordinating training schedules and ensuring timely completion to meet organizational needs.
+> This section outlines experience managing cybersecurity awareness training and phishing simulations through the KnowBe4 platform.
 
-➜ Procured and managed third-party training services through KnowBe4 to help the organization meet compliance audit requirements.  
-
-➜ Ran simulated phishing campaigns to identify high-risk users and assigned targeted training to reduce the likelihood of future cyber incidents.
-
+- Managed the KnowBe4 cybersecurity awareness training program, coordinating training schedules and ensuring timely completion to meet organizational needs.
+- Procured and managed third-party training services through KnowBe4 to help the organization meet compliance audit requirements.
+- Ran simulated phishing campaigns to identify high-risk users and assigned targeted training to reduce the likelihood of future cyber incidents.
